@@ -16,7 +16,7 @@ Each recipe page includes a list of ingredients and step-by-step instructions to
 
 ## Viewing Online
 
-If you want to view this project online, you can access it at [Your-GitHub-Username.github.io/Your-GitHub-Repo-Name](#) after publishing it on GitHub Pages.
+If you want to view this project online, you can access it at [https://codemaestroayodeji.github.io/odin_recipes/index.html](#) after publishing it on GitHub Pages.
 
 ## Contribution
 
